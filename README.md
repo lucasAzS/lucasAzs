@@ -9,6 +9,11 @@ Hi my name is Lucas, and I'm exploring the idea of becoming an expert in the Jav
 ## 🔧 Technologies & Tools
 - 🌱 I’m currently learning TypeScript and React.
 
-## &#x1f4c8; GitHub Stats
-[![LucasAzs GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasAzs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center"> &#x1f4c8; GitHub Stats </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasAzs&show_icons=true&theme=dark" />
+</p>
+
+<p aling="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzs&layout=compact" />
+</p>
