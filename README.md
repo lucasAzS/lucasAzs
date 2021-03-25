@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá pessoal! | Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif?token=ANFIABFRGRT2XKTP6IPAMDTALTK4G" width="30px">
 
-<!--
-**lucasAzS/lucasAzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi meu nome é Lucas e estou explorando a ideia de me tornar um especialista na stack de javascript.
 
-Here are some ideas to get you started:
+Hi my name is Lucas, and I'm exploring the idea of becoming an expert in the JavaScript stack. &#128513; 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🔧 Technologies & Tools
+- 🌱 I’m currently learning TypeScript and React.
+
+## &#x1f4c8; GitHub Stats
+[![LucasAzs GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasAzs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
