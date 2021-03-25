@@ -7,7 +7,14 @@
 
 
 <h2 align="center"> 🔧 Technologies & Tools </h2>
-<p align="center">- 🌱 I’m currently learning TypeScript and React. </h2>
+<p align="center">- 🌱
+<img src="https://img.shields.io/badge/Learning-ReactJS-blue" /> 
+<img src="https://img.shields.io/badge/Learning-TypeScript-blue" /> 
+</p>  
+  
+
+
+
 
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
 <p align="center">
