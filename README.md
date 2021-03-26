@@ -34,4 +34,6 @@
 </ul>
 
 <h3 align="center">HTML, CSS e JS</h3>
-<ul align="center"><a href="https://bikcraftlucasaz.netlify.app">A simple website</a></ul>
+<ul align="center">
+  <li><a href="https://bikcraftlucasaz.netlify.app">A simple website</a></li>
+</ul>
