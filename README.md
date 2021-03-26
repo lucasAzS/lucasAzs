@@ -24,3 +24,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzs&layout=compact" />
 </p>
+
+
+<h2 align="center">⌨️ Latest Projects </h2>
+<h3 align="center">React: </h3>
+<ul align="center">
+  <li><a href=https://dogslucasaz.netlify.app/ >Dogs - Social Media for dogs  😛  </a>  </li>
+  <li><a href="https://weatherapplucasaz.netlify.app/"> A simple wheater widget. (not responsive yet 😞) </a></li> 
+</ul>
+
+<h3 align="center">HTML, CSS e JS</h3>
+<ul align="center"><a href="https://bikcraftlucasaz.netlify.app">A simple website</a></ul>
