@@ -10,6 +10,7 @@
 <p align="center">- 🌱
 <img src="https://img.shields.io/badge/Learning-ReactJS-blue" /> 
 <img src="https://img.shields.io/badge/Learning-TypeScript-blue" /> 
+<img src="https://img.shields.io/badge/Working-ImersãoFullCycle-brightgreen" /> 
 </p>  
   
 
