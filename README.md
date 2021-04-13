@@ -7,16 +7,12 @@
 
 
 <h2 align="center"> 🔧 Technologies & Tools </h2>
-<p align="center">- 🌱
+<p align="center">
+  - 🌱
 <img src="https://img.shields.io/badge/Learning-ReactJS-blue" /> 
 <img src="https://img.shields.io/badge/Learning-TypeScript-blue" /> 
-<img src="https://img.shields.io/badge/Working-ImersãoFullCycle-brightgreen" /> 
 </p>  
   
-
-
-
-
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasAzs&show_icons=true&theme=dark" />
@@ -31,10 +27,19 @@
 <h3 align="center">React: </h3>
 <ul align="center">
   <li><a href=https://dogslucasaz.netlify.app/ >Dogs - Social Media for dogs  😛  </a>  </li>
-  <li><a href="https://weatherapplucasaz.netlify.app/"> A simple wheater widget. (not responsive yet 😞) </a></li> 
+  <li><a href="https://weatherapplucasaz.netlify.app/"> A simple weather widget. (not responsive yet 😞) </a></li> 
 </ul>
 
 <h3 align="center">HTML, CSS e JS</h3>
 <ul align="center">
   <li><a href="https://bikcraftlucasaz.netlify.app">A simple website</a></li>
 </ul>
+
+<h2 align="center">  Events/Bootcamps: </h2>
+<h3 align="center">In Progress:</h3>
+<p align="center">Waiting for NLW5</p>
+
+<h3 align="center">Done:</h3>
+<p align="center">
+  - Imersão Fullcycle
+</p>
