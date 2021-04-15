@@ -1,9 +1,17 @@
-<h1 align ="center"> Olá pessoal! | Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif?token=ANFIABFRGRT2XKTP6IPAMDTALTK4G" width="30px"> </h1>
-
-<p align="center">Oi meu nome é Lucas e estou explorando a ideia de me tornar um especialista na stack de javascript. </p>
+<h1 align ="center"> Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif" width="2rem"> </h1>
 
 <p align="center"> Hi my name is Lucas, and I'm exploring the idea of becoming an expert in the JavaScript stack. &#128513; </p>
 
+<p align="center">
+📫  Want to talk to me? Send me a message on one of these social networks below !
+</p>
+
+<p align="center">
+<a href="mailto:lucas.azsantos@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-lucas.azsantos@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucas.azsantos@gmail.com" /></a>
+  
+<a href="https://www.linkedin.com/in/lucasazsantos/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasazsantos/" /></a>
 
 
 <h2 align="center"> 🔧 Technologies & Tools </h2>
