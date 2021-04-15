@@ -1,12 +1,12 @@
-<h1 align ="center"> Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif" width="2rem"> </h1>
+<h1 align ="left"> Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif" width="2rem"> </h1>
 
-<p align="center"> Hi my name is Lucas, and I'm exploring the idea of becoming an expert in the JavaScript stack. &#128513; </p>
+<p align="left"> Hi my name is Lucas, and I'm exploring the idea of becoming an expert in the JavaScript stack. &#128513; </p>
 
-<p align="center">
+<p align="left">
 📫  Want to talk to me? Send me a message on one of these social networks below !
 </p>
 
-<p align="center">
+<p align="left">
 <a href="mailto:lucas.azsantos@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-lucas.azsantos@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucas.azsantos@gmail.com" /></a>
   
@@ -14,17 +14,13 @@
 <img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasazsantos/" /></a>
 
 
-<h2 align="center"> 🔧 Technologies & Tools </h2>
+<h2 align="left"> 🔧 Technologies & Tools </h2>
 <p align="center">
-  - 🌱
 <img src="https://img.shields.io/badge/Learning-ReactJS-blue" /> 
 <img src="https://img.shields.io/badge/Learning-TypeScript-blue" /> 
 </p>  
   
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasAzs&show_icons=true&theme=dark" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzs&layout=compact" />
