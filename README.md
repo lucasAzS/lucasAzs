@@ -41,7 +41,7 @@
 
 <h2 align="center">  Events/Bootcamps: </h2>
 <h3 align="center">In Progress:</h3>
-<p align="center">Waiting for NLW5</p>
+<p align="center"> #NLW5: https://nextlevelweek.com/</p>
 
 <h3 align="center">Done:</h3>
 <p align="center">
