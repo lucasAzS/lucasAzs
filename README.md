@@ -42,6 +42,7 @@
 <h2 align="center">  Events/Bootcamps: </h2>
 <h3 align="center">In Progress:</h3>
 <p align="center"> #NLW5: https://nextlevelweek.com/</p>
+<p align="center">Project of event: <a href=https://github.com/lucasAzS/podcastr>Podcastr<a/></p>
 
 <h3 align="center">Done:</h3>
 <p align="center">
