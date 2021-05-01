@@ -39,12 +39,3 @@
   <li><a href="https://bikcraftlucasaz.netlify.app">A simple website</a></li>
 </ul>
 
-<h2 align="center">  Events/Bootcamps: </h2>
-<h3 align="center">In Progress:</h3>
-<p align="center"> #NLW5: https://nextlevelweek.com/</p>
-<p align="center">Project of event: <a href=https://github.com/lucasAzS/podcastr>Podcastr<a/></p>
-
-<h3 align="center">Done:</h3>
-<p align="center">
-  - Imersão Fullcycle2  2021
-</p>
