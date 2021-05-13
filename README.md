@@ -37,5 +37,6 @@
 <h3 align="center">HTML, CSS e JS</h3>
 <ul align="center">
   <li><a href="https://bikcraftlucasaz.netlify.app">A simple website</a></li>
+  <li><a href="https://lucasazs.github.io/frontend-mentor-challenges/">Frontend Mentor Challenges</a>
 </ul>
 
