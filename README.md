@@ -1,6 +1,6 @@
 <h1 align ="left"> Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif" width="2rem"> </h1>
 
-<p align="left"> Hi my name is Lucas, and I'm exploring the idea of becoming an expert in the JavaScript stack. &#128513; </p>
+<p align="left"> Hi my name is Lucas, and I'm exploring the idea of becoming an Frontend Dev. &#128513; </p>
 
 <p align="left">
 📫  Want to talk to me? Send me a message on one of these social networks below !
@@ -16,8 +16,10 @@
 
 <h2 align="left"> 🔧 Technologies & Tools </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Learning-ReactJS-blue" /> 
-<img src="https://img.shields.io/badge/Learning-TypeScript-blue" /> 
+<img src="https://img.shields.io/badge/ReactJS-blue?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML&CSS-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-yellow?style=for-the-badge" />
 </p>  
   
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
