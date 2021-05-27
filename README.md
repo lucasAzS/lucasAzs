@@ -1,6 +1,6 @@
 <h1 align ="left"> Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif" width="2rem"> </h1>
 
-<p align="left"> Hi my name is Lucas, and I'm exploring the idea of becoming an Frontend Dev. &#128513; </p>
+<p align="left"> Hi my name is Lucas, and I'm exploring the idea of becoming a Frontend Dev. &#128513; </p>
 
 <p align="left">
 📫  Want to talk to me? Send me a message on one of these social networks below !
@@ -16,10 +16,10 @@
 
 <h2 align="left"> 🔧 Technologies & Tools </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/ReactJS-blue?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HTML&CSS-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react" /> 
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML&CSS-green?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=postgresql&logoColor=blue" />
 </p>  
   
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
