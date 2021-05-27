@@ -1,6 +1,7 @@
-<h1 align ="left"> Hello, folks! <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif" width="2rem"> </h1>
+<h1 align ="left"> Hello World <img src="https://raw.githubusercontent.com/lucasAzS/lucasAzs/main/wave.gif" width="2rem"> </h1>
 
-<p align="left"> Hi my name is Lucas, and I'm exploring the idea of becoming a Frontend Dev. &#128513; </p>
+<p align="left"> Hi my name is Lucas, and I'm exploring the idea of becoming a Frontend Dev. 🐱‍👤</p> 
+<p>I don't have professional experience yet, but always learning new things and applying them on personal projects. 😁 </p>
 
 <p align="left">
 📫  Want to talk to me? Send me a message on one of these social networks below !
