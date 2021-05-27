@@ -33,7 +33,7 @@
 <h3 align="center">React: </h3>
 <ul align="center">
   <li><a href=https://dogslucasaz.netlify.app/ >Dogs - Social Media for dogs  😛  </a>  </li>
-  <li><a href="https://weatherapplucasaz.netlify.app/"> A simple weather widget. (not responsive yet 😞) </a></li> 
+  <li><a href="https://weatherapplucasaz.netlify.app/"> A simple weather widget. </a></li> 
 </ul>
 
 <h3 align="center">HTML, CSS e JS</h3>
