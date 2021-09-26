@@ -27,7 +27,7 @@
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzS&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzS&layout=compact&theme=dracula" />
 </p>
 
 
