@@ -27,10 +27,12 @@
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzS&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzS&theme=dracula&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasAzS&show_icons=true&theme=dracula" />
+  
 </p>
 
-
+ 
 <h2 align="center">⌨️ Latest Projects </h2>
 <h3 align="center">React: </h3>
 <ul align="center">
