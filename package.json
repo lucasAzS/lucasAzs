@@ -1,6 +1,11 @@
 {
+  "scripts": {
+    "build": "esbuild app.jsx --bundle --outfile=out.js"
+  },
   "dependencies": {
     "@mdx-js/esbuild": "^2.3.0",
-    "@mdx-js/react": "^2.3.0"
+    "@mdx-js/react": "^2.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
